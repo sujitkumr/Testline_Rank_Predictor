@@ -15,11 +15,13 @@ This project predicts NEET ranks based on students' quiz performance and histori
 ![image](https://github.com/user-attachments/assets/d0bf31bb-70a6-46ce-b97f-fca590878c2e)
 
 
--API endpoints : /api/quiz/predict-rank
+ - API endpoints : /api/quiz/predict-rank
+ 
 ![image](https://github.com/user-attachments/assets/4cb562f5-b659-45ad-bf7f-c17e1a4e8231)
 
 
 - API endpoints: api/quiz/generate-insights
+  
 ![image](https://github.com/user-attachments/assets/6c02085b-b025-416d-ba69-23e63a85245e)
 
 
